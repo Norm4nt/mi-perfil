@@ -26,7 +26,7 @@ Top 5 comidas favoritas:
 4. Tacos.
 5. Carlota.
 
-![ ] (https://es.rollingstone.com/wp-content/uploads/2023/06/Escucha-Nata-Montana-el-nuevo-album-de-Natanael-Cano.jpg)
+![ ](https://es.rollingstone.com/wp-content/uploads/2023/06/Escucha-Nata-Montana-el-nuevo-album-de-Natanael-Cano.jpg)
 
 # CV # 
 

@@ -1,7 +1,7 @@
 # Hola, mi nombre es Omar Esquivel #
 
 | Lenguaje   | Habilidades | 
-|--------------------------|
+|------------|-------------|
 | HTML       | 4/10        |
 | CSS        | 2/10        |
 | Java Scrip | 1/10        |
